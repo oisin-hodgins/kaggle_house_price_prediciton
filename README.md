@@ -1,8 +1,9 @@
 # kaggle_house_price_prediciton
-My attempt at the following Kaggle competition: "House Prices - Advanced Regression Techniques". Includes data exploration, feature engineering and gradient boosting regression.
+My attempt at the following Kaggle competition: "House Prices - Advanced Regression Techniques". 
+Includes data exploration, feature engineering and gradient boosting regression.
 My attempt at the "House Prices - Advanced Regression Techniques" challenge on kaggle, available <a href="https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview" >here</a>.
 
-This is by no means an expert or perfect solution, however it dis achieve a top 15% position on the leaderboard with a score of `0.12402`, using gradient boosting regression.
+This is by no means an expert or perfect solution, however it dis achieve a top `15%` position on the leaderboard with a score of `0.12402`, using gradient boosting regression.
 
 This brief report includes exploratory data analysis, feature engineering and model design.
 
